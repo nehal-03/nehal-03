@@ -1,4 +1,4 @@
-<p align="center">&nbsp;<a href="https://www.instagram.com/_justnb/"><img align="center" src="nehal-03@cover.gif" alt="Nehal Bhuyan@instagram" /></a></p>
+<!--<p align="center">&nbsp;<a href="https://www.instagram.com/_justnb/"><img align="center" src="nehal-03@cover.gif" alt="Nehal Bhuyan@instagram" /></a></p>-->
 <h1 align="center">Hi, I'm Nehal Bhuyan</h1>
 <h3 align="center">A Computer Science enthusiast</h3>
 

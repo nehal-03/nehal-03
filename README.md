@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nehal-03&label=Profile%20views&color=0e75b6&style=flat" alt="nehal-03" /> </p>
 <p align="center"> <a href="https://twitter.com/_justnb" target="blank"><img src="https://img.shields.io/twitter/follow/_justnb?logo=twitter&style=for-the-badge&color=41aff2&labelColor=1da1f2" alt="_justnb" /></a><a href="https://www.youtube.com/channel/UCVNckp365xS3BCyyakYoU5A">
  <img alt="subscriber" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCVNckp365xS3BCyyakYoU5A&key=AIzaSyDnm3NLuJDUffJCn5qjHwpZtU7FuL987c0&?label=Views&style=for-the-badge&color=red&labelColor=ce4630"/>
- <a href="https://www.youtube.com/channel/[YOUR CHANNEL ID]">
+ <a href="https://www.youtube.com/channel/UCVNckp365xS3BCyyakYoU5A">
  <img alt="View Count" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCVNckp365xS3BCyyakYoU5A&key=AIzaSyDnm3NLuJDUffJCn5qjHwpZtU7FuL987c0&style=for-the-badge&color=red&labelColor=ce4630"/>
 </a>
 </a>

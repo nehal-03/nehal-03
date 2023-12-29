@@ -12,7 +12,7 @@
 </a>
 </p>
 
-<p align="center">🌱 I’m currently focused on <strong>Frontend and DSA</strong></p>
+<p align="center">🌱 I’m currently focused on <strong>Backend and DSA</strong></p>
 <p align="center"><a href="mailto:nehal.bhuyan.m@gmail.com">nehal.bhuyam.m@gmail.com</a></p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
